@@ -1,0 +1,27 @@
+.About-header {
+    background-color: #143d8f;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.About-title {
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.About-container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.About-section {
+    margin: 20px 0;
+}
+.mem-titles
+{
+    font-weight: 700;
+}
